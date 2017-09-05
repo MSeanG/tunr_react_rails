@@ -1,1 +1,1 @@
-web: rals s
+web: rails s
