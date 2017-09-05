@@ -4,7 +4,7 @@ class Artist extends Component {
   render(){
     return (
       <div>
-      hello from artist
+        <h1>hello from artist</h1>
       </div>
     )
   }
